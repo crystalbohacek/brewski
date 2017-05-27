@@ -37,6 +37,7 @@ $(document).ready(function () {
             }
         });
     });
+  
     //animations on scroll
     $('.js-wp-1').waypoint(function (direction) {
         $('.js-wp-1').addClass('animated fadeIn');
@@ -58,6 +59,7 @@ $(document).ready(function () {
     }, {
         offset: '50%'
     });
+  
     //mobile nav
     $('.js-nav').click(function () {
         var nav = $('.js-main-nav');
