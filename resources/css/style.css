@@ -104,10 +104,6 @@ h2:after {
   text-align: center;
 }
 
-.text-justify {
-  text-align: justify;
-}
-
 /* ------ PARAGRAPHS ----- */
 .long-copy {
   line-height: 145%;
